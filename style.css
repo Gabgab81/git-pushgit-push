@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: 'Amatic SC', cursive;
+  font-weight: 400px;
+  font-size: 20px;
+}
+.banner {
+  background-image: url("https://source.unsplash.com/random/800x600");
+  background-size: cover;
+  /* text-align: center; */
+  padding: 80px 10px 100px 0;
+}
+
+h1 {
+  color: white;
+  font-size: 40px;
+  font-weight: 700px;
+  padding-bottom: 20px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.banner p{
+  color: white;
+  font-size: 30px;
+  /* padding: 0 150px 0 0; */
+  font-weight: 700px;
+}
+
+h2{
+  color: #62959c;
+  font-size: 30px;
+}
+
+.container {
+  padding: 0 20px 0 0;
+  margin: 0 auto;
+  width: 600px;
+}
+
+p {
+  line-height: 1.4;
+}
+
+.green-background{
+  background: rgb(192, 218, 218);
+  width: 151px;
+}
+a{
+  text-decoration: none;
+  color: #62959c;
+}
+a:hover{
+  background: rgb(173, 236, 236);
+}
